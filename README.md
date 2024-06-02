@@ -3,7 +3,7 @@
 
 - https://t.me/pixelversexyzbot Start The Bot
 
-- git clone **https://github.com/monteksz/PixelTap**
+- git clone **https://github.com/monteksz/PixelTapPHP**
 
 - cd PixelTap
 
